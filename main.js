@@ -2,8 +2,9 @@
  * 
  * @param {number} a 
  * @param {number} b 
- * @returns {Object} the blah object
+ * @returns {Object} the addition object
  */
-function blah(a, b) {
+function addition(a, b) {
   return a + b;
 }
+

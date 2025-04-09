@@ -2,8 +2,8 @@
  * 
  * @param {number} a 
  * @param {number} b 
- * @returns {Object} the blah object
+ * @returns {Object} the blahBlah object
  */
-function blah(a, b) {
+function blahBlah(a, b) {
   return a + b;
 }
